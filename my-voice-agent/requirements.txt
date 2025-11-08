@@ -1,0 +1,8 @@
+gradio
+anthropic
+supabase
+fastapi
+uvicorn
+python-dotenv
+requests 
+gradio-client
